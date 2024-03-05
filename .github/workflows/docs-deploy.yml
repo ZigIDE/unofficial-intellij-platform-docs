@@ -1,3 +1,0 @@
-name: Generate Docs and Deploy to GitHub Pages
-
-on: workflow_dispatch
